@@ -6,6 +6,5 @@ channels:
 dependencies:
   - Biopython
   - scikit-bio
-  - bioconda
   - mafft
 
